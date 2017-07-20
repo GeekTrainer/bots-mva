@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/GeekTrainer/bots-mva#readme",
   "dependencies": {
-    "botbuilder": "^3.2.3",
+    "botbuilder": "^3.8",
+    "dotenv": "^4.0.0",
     "restify": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^4.0.0"
   }
 }
